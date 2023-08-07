@@ -16,6 +16,10 @@ jobs:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           # 时间线
           SHOW_LINES_OF_CODE: TRUE
+          SHOW_TOTAL_CODE_TIME: TRUE
+          SHOW_PROFILE_VIEWS: TRUE
           SHOW_LOC_CHART: TRUE
           SHOW_PROJECTS: FALSE
           SHOW_LANGUAGE_PER_REPO: TRUE
+          SHOW_SHORT_INFO: FALSE
+          SYMBOL_VERSION: 3
