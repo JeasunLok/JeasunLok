@@ -8,22 +8,10 @@
 | ------------- | ------------- |
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-176%20hrs%2015%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-173%20hrs%201%20min-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-168.1%20thousand%20lines%20of%20code-blue)
 
-**🐱 My GitHub Data** 
-
-> 📦 513.0 kB Used in GitHub's Storage 
- > 
-> 🏆 225 Contributions in the Year 2023
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 9 Public Repositories 
- > 
-> 🔑 0 Private Repositories 
- > 
 **I'm a Night 🦉** 
 
 ```text
@@ -48,19 +36,12 @@ Sunday                   90 commits          ███░░░░░░░░�
 📊 **This Week I Spent My Time On** 
 
 ```text
-🕑︎ Time Zone: Asia/Shanghai
-
 💬 Programming Languages: 
 Python                   6 hrs 11 mins       █████████████████████████   99.85 % 
 Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
 
 🔥 Editors: 
 VS Code                  6 hrs 12 mins       █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-test3                    5 hrs 40 mins       ███████████████████████░░   91.55 % 
-SAM-UGIS-Homework        23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.18 % 
-ljs                      8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
 
 💻 Operating System: 
 Windows                  6 hrs 12 mins       █████████████████████████   100.00 % 
@@ -78,5 +59,5 @@ C++                      1 repo              ███░░░░░░░░�
 
 
 
- Last Updated on 07/08/2023 09:46:38 UTC
+ Last Updated on 07/08/2023 18:35:51 UTC
 <!--END_SECTION:waka-->
