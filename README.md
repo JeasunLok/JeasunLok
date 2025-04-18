@@ -1,8 +1,10 @@
 ### Hi! Welcome to the profile of JeasunLok! 👋
 
-🔬 A student from School of Geography and Planning, Sun Yat-Sen University. I am now pursuing B.S in Geographic Information Science and ready to pursue PhD in Cartography and Geographical Information System.
+🔬 A student from School of Geography and Planning, Sun Yat-Sen University. I am now pursuing PhD in Cartography and Geographical Information System.
 
-💬 Reach out to me via [email](mailto:luojsh7@mail2.sysu.edu.cn) if you'd like to communicate with me!
+💬 Reach out to me via [email](mailto:luojsh7@mail2.sysu.edu.cn) if you'd like to communicate with me! 
+
+🙌 [Here](https://jeasunlok.github.io/) is my personal homepage if you want to learn about me! 
 
 :point_right: Some works are being updated!
 
