@@ -45,19 +45,37 @@ Sunday                   123 commits         ⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   29 mins             ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜   97.54 % 
+Other                    0 secs              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   02.46 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  16 mins             ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   53.33 % 
+Codex CLI                14 mins             ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   46.67 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  30 mins             ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 14 mins (46.67%)
+
+✍️ 0 lines written by AI, 192 lines written by hand (0.0% AI-written)
+
+🔤 30,915 Input Tokens, 1,114 Output Tokens
+
+💵 $0.11 Estimated AI Cost This Week
+
+🧠 2 AI Sessions, 2 AI Prompts
+
+GPT                      0 lines             ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   00.00 % 
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
+📝 Concise Prompter — average 33 characters per prompt
+🎯 One-Shot Prompter — average 1 prompts per session
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -73,5 +91,5 @@ C++                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 
 
- Last Updated on 29/08/2026 01:50:10 UTC
+ Last Updated on 29/08/2026 21:04:33 UTC
 <!--END_SECTION:waka-->
